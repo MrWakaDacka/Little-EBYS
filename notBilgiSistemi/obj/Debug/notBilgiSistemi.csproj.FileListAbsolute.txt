@@ -1,0 +1,9 @@
+c:\users\ayta\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\bin\Debug\notBilgiSistemi.exe.config
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\bin\Debug\notBilgiSistemi.exe
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\bin\Debug\notBilgiSistemi.pdb
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\obj\Debug\notBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\obj\Debug\notBilgiSistemi.Properties.Resources.resources
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\obj\Debug\notBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\obj\Debug\notBilgiSistemi.exe
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\obj\Debug\notBilgiSistemi.pdb
+C:\Users\AYTA\documents\visual studio 2015\Projects\notBilgiSistemi\notBilgiSistemi\obj\Debug\notBilgiSistemi.NBS.resources
